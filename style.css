@@ -1,7 +1,9 @@
 h1{
     color: brown;
     background-color: bisque;
+    animation: animate 6s linear infinite;
 }
+
 
 body{
     background-color: rgb(0, 0, 0);
